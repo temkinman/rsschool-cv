@@ -47,7 +47,8 @@ module.exports = function countCats(pets) {
 
 - Basic HTML/CSS/JavaScript on F.Skorina Gomel State University.
 - Basic Java/C#/SQL on F.Skorina Gomel State University
-- my first mini ptoject [todo list](https://github.com/temkinman/todo-c-team) on JS
+- my first mini ptoject [todo list](https://github.com/temkinman/todo-c-team) on Javascript
+- Java on Javarush course
 
 **English Level**
 Level - A1 video lessons
